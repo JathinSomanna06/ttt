@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "ttt",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
